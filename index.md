@@ -25,8 +25,8 @@
 ## 取り組んでいるテーマ
 - VRワールド作成
 - clusterで学校を作って見たい
-  企画書
-https://docs.google.com/document/d/1IKl3xBdNGAiHc6Z-vIThK_ouJElOfJ4CUb9kIT1g_Mc/edit?usp=sharing
+- 企画書
+- https://docs.google.com/document/d/1IKl3xBdNGAiHc6Z-vIThK_ouJElOfJ4CUb9kIT1g_Mc/edit?usp=sharing
 ## 作品リスト
 　　https://cluster.mu/w/c2f543d9-97b9-433d-bf9b-bdb7604973b0
 作品概要

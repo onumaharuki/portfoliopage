@@ -28,7 +28,7 @@
 [(企画書)](https://docs.google.com/document/d/1IKl3xBdNGAiHc6Z-vIThK_ouJElOfJ4CUb9kIT1g_Mc/edit?usp=sharing)
 ## 作品リスト
 　　https://cluster.mu/w/c2f543d9-97b9-433d-bf9b-bdb7604973b0
-作品概要
+- 作品概要
 
 - 開発環境：
 - 開発期間：
